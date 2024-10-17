@@ -2,9 +2,13 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+When cloning a React project (or any Node.js project), the *npm install* command is required as the first command. It does the following: Installs dependencies and checks dependencies.
+
 First, run the development server:
 
 ```bash
+npm install
+# after
 npm run dev
 # or
 yarn dev
